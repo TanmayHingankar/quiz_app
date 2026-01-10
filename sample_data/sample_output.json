@@ -1,0 +1,83 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "",
+  "key_entities": {
+    "people": [
+      "The Extraordinary",
+      "Ronald Lewin",
+      "New Jersey",
+      "Woking Crematorium",
+      "Andrew Koenig",
+      "Mathematics Computer",
+      "Executive Committee",
+      "In Cooper",
+      "Julius Mathison",
+      "The Shirburnian"
+    ],
+    "organizations": [],
+    "locations": []
+  },
+  "sections": [
+    "Early life and education",
+    "Family",
+    "School",
+    "Christopher Morcom",
+    "University and work on computability",
+    "Career and research",
+    "Cryptanalysis",
+    "Bombe",
+    "Hut 8 and the naval Enigma",
+    "Turingery",
+    "Delilah",
+    "Early computers and the Turing test",
+    "Pattern formation and mathematical biology",
+    "Personal life",
+    "Treasure",
+    "Engagement",
+    "Chess",
+    "Homosexuality and indecency conviction",
+    "Death",
+    "Government apology and pardon",
+    "Further reading",
+    "Articles",
+    "Books",
+    "See also",
+    "Works cited",
+    "Notes",
+    "References",
+    "External links"
+  ],
+  "quiz": [
+    {
+      "question": "Where did Alan Turing study?",
+      "options": [
+        "Harvard University",
+        "Cambridge University",
+        "Oxford University",
+        "Princeton University"
+      ],
+      "answer": "Cambridge University",
+      "difficulty": "easy",
+      "explanation": "Mentioned in the 'Early life' section."
+    },
+    {
+      "question": "What was Alan Turing's main contribution during World War II?",
+      "options": [
+        "Atomic research",
+        "Breaking the Enigma code",
+        "Inventing radar",
+        "Developing jet engines"
+      ],
+      "answer": "Breaking the Enigma code",
+      "difficulty": "medium",
+      "explanation": "Detailed in the 'World War II' section."
+    }
+  ],
+  "related_topics": [
+    "Cryptography",
+    "Enigma machine",
+    "Computer science history"
+  ]
+}
