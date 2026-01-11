@@ -119,11 +119,18 @@ Returns full quiz data including questions and answers.
 
 ### Take Quiz Mode
 ![Take Quiz Mode](screenshots/take_quiz.png)
-*Interactive quiz taking with scoring and answer feedback*
+*Interactive quiz taking<img width="1920" height="1080" alt="Screenshot 2026-01-10 185926" src="https://github.com/user-attachments/assets/0aafa644-99f0-43e9-9823-9bbc3ffe5bb4" />
+ with scoring and answer feedback*
 
 ## Submission Links
 ```
-GitHub Repository: https://github.com/your-username/wiki-quiz-app
+GitHub Rep<img width="1920<img width="1007" height="845" alt="Screenshot 2026-01-09 173312" src="https://github.com/user-attachments/assets/d75917d5-7bc6-4d7c-bca5-5aba7bb6f38d" />
+" height="1080" alt="Screenshot 2026-01-10 185512" src="https://github.com/user-attachments<img width="1920" height="1080" alt="Screenshot 2026-01-10 182635" src="https://github.com/user-attachments/assets/2b36007e-970a-4ea8-a0ca-03b8a8cb1b13" />
+/assets/b8a3ec33-6c44-4be1-8d70-b26d9e3c07e0" />
+ository: ht<img width="1920" height="1080" alt="Screenshot 2026-01-10 185852" src="https://github.com/user-at<img width="1920" height="1080" alt="Screenshot 2026-01-10 185816" src="https://github.com/user-attachments/assets/3bf26103-6cc7-45e3-88c4-be6d3d5e9b84" />
+tachments/assets/40b727c8-5855-43a4-ad11-b6ae494e3402" />
+tps://github.com/your-username/wiki-<img width="1920" height="1080" alt="Screenshot 2026-01-10 185837" src="https://github.com/user-attachments/assets/d0418f7e-e118-44a4-b987-14a73e58bb78" />
+quiz-app
 Deployed App: https://wiki-quiz-app.vercel.app
 Screen Recording: https://drive.google.com/your-screen-recording-link
 ```
