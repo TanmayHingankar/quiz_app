@@ -121,6 +121,7 @@ Returns full quiz data including questions and answers.
 ![Take Quiz Mode](screenshots/take_quiz.png)
 *Interactive quiz taking<img width="1920" height="1080" alt="Screenshot 2026-01-10 185926" src="https://github.com/user-attachments/assets/0aafa644-99f0-43e9-9823-9bbc3ffe5bb4" />
  with scoring and answer feedback*
+<img width="1920" height="1080" alt="Screenshot 2026-01-10 185816" src="https://github.com/user-attachments/assets/0d88facf-c825-43fb-a42d-33d22d0314a7" />
 
 ## Submission Links
 ```
