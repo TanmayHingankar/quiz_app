@@ -136,8 +136,12 @@ ository: ht<img width="1920" height="1080" alt="Screenshot 2026-01-10 185852" sr
 tachments/assets/40b727c8-5855-43a4-ad11-b6ae494e3402" />
 tps://github.com/your-username/wiki-<img width="1920" height="1080" alt="Screenshot 2026-01-10 185837" src="https://github.com/user-attachments/assets/d0418f7e-e118-44a4-b987-14a73e58bb78" />
 quiz-app
-Deployed App: https://wiki-quiz-app.vercel.app
-Screen Recording: https://drive.google.com/your-screen-recording-link
+
+
+Deployed App: https://quizapp-three-sepia.vercel.app/
+
+
+Screen Recording: https://drive.google.com/file/d/1PB7rF-6KmrOfpyXmswTqXiYfe43vj1ZI/view?usp=drive_link
 ```
 
 ## License
