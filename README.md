@@ -122,6 +122,10 @@ Returns full quiz data including questions and answers.
 *Interactive quiz taking<img width="1920" height="1080" alt="Screenshot 2026-01-10 185926" src="https://github.com/user-attachments/assets/0aafa644-99f0-43e9-9823-9bbc3ffe5bb4" />
  with scoring and answer feedback*
 <img width="1920" height="1080" alt="Screenshot 2026-01-10 185816" src="https://github.com/user-attachments/assets/0d88facf-c825-43fb-a42d-33d22d0314a7" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-10 185816" src="https://github.com/user-attachments/assets/82e339d7-0cd3-45c3-8d65-656480ff7ff9" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-10 185837" src="https://github.com/user-attachments/assets/de139503-2c8e-43ac-9e30-6fd9fa4d439d" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-10 185512" src="https://github.com/user-attachments/assets/1ad05851-160a-476a-941e-48fcd078b0f0" />
+
 
 ## Submission Links
 ```
