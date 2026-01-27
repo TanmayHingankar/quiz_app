@@ -3,6 +3,12 @@
 ## Project Overview
 Wiki Quiz App is an AI-powered web application that generates interactive quizzes from Wikipedia articles. Users can input any Wikipedia URL, and the app automatically scrapes the content, uses Google's Gemini AI to create multiple-choice questions with varying difficulty levels, and provides explanations and related topics for further learning.
 
+
+Screen Recording: https://drive.google.com/file/d/1PB7rF-6KmrOfpyXmswTqXiYfe43vj1ZI/view?usp=drive_link
+
+Deployed App: https://quizapp-three-sepia.vercel.app/
+
+
 ## Tech Stack
 - **Frontend**: React with Tailwind CSS for modern, responsive UI
 - **Backend**: FastAPI (Python) for REST API
@@ -143,6 +149,9 @@ Deployed App: https://quizapp-three-sepia.vercel.app/
 
 Screen Recording: https://drive.google.com/file/d/1PB7rF-6KmrOfpyXmswTqXiYfe43vj1ZI/view?usp=drive_link
 ```
+Screen Recording: https://drive.google.com/file/d/1PB7rF-6KmrOfpyXmswTqXiYfe43vj1ZI/view?usp=drive_link
+
+Deployed App: https://quizapp-three-sepia.vercel.app/
 
 ## License
 MIT License
